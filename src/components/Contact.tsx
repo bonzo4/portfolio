@@ -24,20 +24,6 @@ export default function Contact() {
           >
             <span>💻</span> GitHub
           </a>
-          <a
-            href="https://www.bonzodev.live"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center gap-2 rounded-lg bg-[#1A1F2B] px-6 py-3 text-white transition hover:bg-[#F36B26]"
-          >
-            <span>🌐</span> Website
-          </a>
-          <a
-            href="tel:+19189460721"
-            className="flex items-center gap-2 rounded-lg bg-[#1A1F2B] px-6 py-3 text-white transition hover:bg-[#F36B26]"
-          >
-            <span>📞</span> Phone
-          </a>
         </div>
         <div className="rounded-lg border-2 border-[#1A1F2B] bg-gradient-to-br from-[#F36B26]/10 to-[#F36B26]/5 p-8">
           <p className="mb-2 text-[#1A1F2B]/90">📍 Based in Tulsa, OK</p>

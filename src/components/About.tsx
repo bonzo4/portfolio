@@ -16,9 +16,8 @@ export default function About() {
             </p>
             <p className="mb-4 text-[#1A1F2B]/90">
               I specialize in architecting and deploying scalable applications
-              using modern technologies like TypeScript, React, Node.js, and
-              cloud infrastructure. I'm passionate about solving complex
-              problems with clean, efficient code.
+              using modern technologies like React, Python, and cloud
+              infrastructure.
             </p>
             <p className="text-[#1A1F2B]/90">
               Currently finishing my B.S. in Computer Science at the University
@@ -33,11 +32,8 @@ export default function About() {
               <li>📍 Location: Tulsa, OK</li>
               <li>🎓 Education: B.S. Computer Science (Expected Dec 2025)</li>
               <li>💼 Previously: Lead Developer & Co-Founder at NTWRK Media</li>
-              <li>
-                🚀 Interests: Full-Stack Development, AI, Cloud Architecture
-              </li>
+              <li>🚀 Interests: Full-Stack Development, Cloud Architecture</li>
               <li>📧 Email: alonzo.sabino4@gmail.com</li>
-              <li>🌐 Website: bonzodev.live</li>
             </ul>
           </div>
         </div>

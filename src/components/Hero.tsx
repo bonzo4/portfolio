@@ -18,8 +18,7 @@ export default function Hero() {
         <p className="mx-auto mb-12 max-w-2xl text-lg text-[#1A1F2B]/80">
           Entrepreneurial developer with 2+ years of experience building
           scalable applications. Co-founded a startup serving 2,000+ communities
-          and passionate about leveraging AI to create innovative user
-          experiences.
+          and passionate about building innovative user experiences.
         </p>
         <div className="flex justify-center gap-4">
           <a

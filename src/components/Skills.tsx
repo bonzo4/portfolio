@@ -6,7 +6,6 @@ export default function Skills() {
           Skills & Technologies
         </h3>
         <div className="grid gap-6 md:grid-cols-4">
-          {/* Frontend */}
           <div className="rounded-lg border-2 border-[#1A1F2B] bg-white p-6 transition hover:border-[#F36B26] hover:shadow-lg">
             <h4 className="mb-4 text-xl font-semibold text-[#F36B26]">
               Frontend
@@ -18,21 +17,17 @@ export default function Skills() {
               <li>• HTML/CSS</li>
             </ul>
           </div>
-
-          {/* Backend */}
           <div className="rounded-lg border-2 border-[#1A1F2B] bg-white p-6 transition hover:border-[#F36B26] hover:shadow-lg">
             <h4 className="mb-4 text-xl font-semibold text-[#F36B26]">
               Backend
             </h4>
             <ul className="space-y-2 text-[#1A1F2B]/90">
-              <li>• Node.js</li>
+              <li>• Node.js/Express</li>
               <li>• Python / Flask</li>
               <li>• C/C++</li>
               <li>• Rust</li>
             </ul>
           </div>
-
-          {/* Database */}
           <div className="rounded-lg border-2 border-[#1A1F2B] bg-white p-6 transition hover:border-[#F36B26] hover:shadow-lg">
             <h4 className="mb-4 text-xl font-semibold text-[#F36B26]">
               Database
@@ -40,12 +35,10 @@ export default function Skills() {
             <ul className="space-y-2 text-[#1A1F2B]/90">
               <li>• PostgreSQL</li>
               <li>• MongoDB</li>
-              <li>• Supabase</li>
               <li>• Redis</li>
+              <li>• Supabase</li>
             </ul>
           </div>
-
-          {/* DevOps & Tools */}
           <div className="rounded-lg border-2 border-[#1A1F2B] bg-white p-6 transition hover:border-[#F36B26] hover:shadow-lg">
             <h4 className="mb-4 text-xl font-semibold text-[#F36B26]">
               DevOps & Tools
