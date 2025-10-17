@@ -17,6 +17,7 @@ export const PROJECT_DATA: ProjectType[] = [
       "Top-ranked Discord Newsletter Application used by 2,000+ communities. Tracked 2M+ views and 300,000+ interactions. Contributed to $200,000+ in revenue.",
     tools: ["TypeScript", "PostgreSQL", "React", "GCP"],
     link: "https://x.com/NTWRKMedia",
+    github: "https://github.com/orgs/NTWRK-Media/repositories",
   },
   {
     icon: "⚔️",
