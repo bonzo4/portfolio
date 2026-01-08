@@ -13,7 +13,7 @@ export default function Hero() {
           Hi, I'm Alonzo Sabino
         </h2>
         <p className="mb-8 text-2xl text-[#1A1F2B]">
-          Full Stack Developer | Co-Founder | Computer Science Student
+          Full Stack Developer | Founding Engineer
         </p>
         <p className="mx-auto mb-12 max-w-2xl text-lg text-[#1A1F2B]/80">
           Entrepreneurial developer with 2+ years of experience building

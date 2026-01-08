@@ -28,7 +28,7 @@ export default function Contact() {
         <div className="rounded-lg border-2 border-[#1A1F2B] bg-gradient-to-br from-[#F36B26]/10 to-[#F36B26]/5 p-8">
           <p className="mb-2 text-[#1A1F2B]/90">📍 Based in Tulsa, OK</p>
           <p className="text-[#1A1F2B]/90">
-            🎓 Available for full-time opportunities starting December 2025
+            🎓 Available for full-time opportunities
           </p>
         </div>
       </div>

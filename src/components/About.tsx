@@ -19,10 +19,10 @@ export default function About() {
               using modern technologies like React, Python, and cloud
               infrastructure.
             </p>
-            <p className="text-[#1A1F2B]/90">
+            {/* <p className="text-[#1A1F2B]/90">
               Currently finishing my B.S. in Computer Science at the University
               of Tulsa and working on Code Duels as my senior project.
-            </p>
+            </p> */}
           </div>
           <div className="rounded-lg border-2 border-[#1A1F2B] bg-gradient-to-br from-[#F36B26]/10 to-[#F36B26]/5 p-8">
             <h4 className="mb-4 text-xl font-semibold text-[#F36B26]">
@@ -30,8 +30,11 @@ export default function About() {
             </h4>
             <ul className="space-y-2 text-[#1A1F2B]/90">
               <li>📍 Location: Tulsa, OK</li>
-              <li>🎓 Education: B.S. Computer Science (Expected Dec 2025)</li>
-              <li>💼 Previously: Lead Developer & Co-Founder at NTWRK Media</li>
+              <li>
+                🎓 Education: B.S. Computer Science at the University of Tulsa -
+                December 2025
+              </li>
+              <li>💼 Previously: Founding Engineer at NTWRK Media</li>
               <li>🚀 Interests: Full-Stack Development, Cloud Architecture</li>
               <li>📧 Email: alonzo.sabino4@gmail.com</li>
             </ul>

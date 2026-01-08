@@ -12,9 +12,9 @@ export type ProjectType = {
 export const PROJECT_DATA: ProjectType[] = [
   {
     icon: "📰",
-    title: "NTWRK Media - Discord Newsletter App",
+    title: "NTWRK Media",
     description:
-      "Top-ranked Discord Newsletter Application used by 2,000+ communities. Tracked 2M+ views and 300,000+ interactions. Contributed to $200,000+ in revenue.",
+      "Content distribution system used by 2,000+ communities. Tracked 2M+ views and 300,000+ interactions. Contributed to $200,000+ in Partnership revenue.",
     tools: ["TypeScript", "PostgreSQL", "React", "GCP"],
     link: "https://x.com/NTWRKMedia",
     github: "https://github.com/orgs/NTWRK-Media/repositories",
@@ -34,7 +34,6 @@ export const PROJECT_DATA: ProjectType[] = [
     description:
       "AI-powered social media app that generates personalized learning roadmaps using LLaMA. Built for Boot.dev 2025 Hackathon.",
     tools: ["React", "Python", "MongoDB", "LLaMA AI"],
-    demo: "https://annu.live/",
     github: "https://github.com/bonzo4/annulive",
   },
 ];
