@@ -8,16 +8,15 @@ export default function About() {
         <div className="grid items-center gap-12 md:grid-cols-2">
           <div>
             <p className="mb-4 text-[#1A1F2B]/90">
-              I'm a Computer Science student and entrepreneurial developer with
-              2+ years of experience in full-stack development. I co-founded
-              NTWRK Media where I led technical development, creating a
-              top-ranked Discord Newsletter Application used by 2,000+
-              communities and contributing to $200,000+ in revenue.
+              I'm a Computer Science student and developer with 2+ years of
+              experience in full-stack development. I built for NTWRK Media
+              where I created a top-ranked Discord Newsletter Application used
+              by 2,000+ communities and contributing to $200,000+ in revenue.
             </p>
             <p className="mb-4 text-[#1A1F2B]/90">
               I specialize in architecting and deploying scalable applications
-              using modern technologies like React, Python, and cloud
-              infrastructure.
+              using modern technologies like React, Python, and Google Cloud
+              Platform.
             </p>
             {/* <p className="text-[#1A1F2B]/90">
               Currently finishing my B.S. in Computer Science at the University
@@ -34,7 +33,7 @@ export default function About() {
                 🎓 Education: B.S. Computer Science at the University of Tulsa -
                 December 2025
               </li>
-              <li>💼 Previously: Founding Engineer at NTWRK Media</li>
+              <li>💼 Previously: Full-Stack Developer at NTWRK Media</li>
               <li>🚀 Interests: Full-Stack Development, Cloud Architecture</li>
               <li>📧 Email: alonzo.sabino4@gmail.com</li>
             </ul>

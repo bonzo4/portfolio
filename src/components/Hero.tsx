@@ -12,13 +12,11 @@ export default function Hero() {
         <h2 className="mb-6 text-6xl font-bold text-[#F36B26]">
           Hi, I'm Alonzo Sabino
         </h2>
-        <p className="mb-8 text-2xl text-[#1A1F2B]">
-          Full Stack Developer | Founding Engineer
-        </p>
+        <p className="mb-8 text-2xl text-[#1A1F2B]">Full Stack Developer</p>
         <p className="mx-auto mb-12 max-w-2xl text-lg text-[#1A1F2B]/80">
-          Entrepreneurial developer with 2+ years of experience building
-          scalable applications. Co-founded a startup serving 2,000+ communities
-          and passionate about building innovative user experiences.
+          Developer with 2+ years of experience building scalable applications.
+          Built for a start-up serving 2,000+ communities and passionate about
+          building innovative user experiences.
         </p>
         <div className="flex justify-center gap-4">
           <a
